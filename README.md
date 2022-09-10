@@ -21,6 +21,8 @@ Users should be able to:
 
 ### Screenshot
 
+- Desktop Look!
+
 ![](./images/Screenshot%20of%20Frontend%20Mentor%20Order%20summary%20card.png)
 
 ### Links
