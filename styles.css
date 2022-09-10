@@ -95,6 +95,16 @@ main {
   max-width: 25rem;
 }
 
+.order-image {
+  overflow: hidden;
+}
+
+.order-image img:hover {
+  transform: scale(1.2);
+  filter: hue-rotate(60deg);
+  transition: 400ms ease-in-out;
+}
+
 .order-summary {
   background-color: var(--very-pale-blue);
   border-radius: 0.8em;
