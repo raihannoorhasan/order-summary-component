@@ -86,7 +86,9 @@ body {
   align-items: center;
   background-color: var(--pale-blue);
   background-image: url(./images/pattern-background-desktop.svg);
-  background-repeat-y: no-repeat;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -50vh;
 }
 main {
   width: 90%;
